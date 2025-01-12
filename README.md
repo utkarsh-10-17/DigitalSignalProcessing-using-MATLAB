@@ -1,6 +1,6 @@
 # Digital Signal Processing (DSP) with MATLAB
 
-This repository contains various experiments and implementations in Digital Signal Processing (DSP) using MATLAB. The focus is on signal analysis, filtering techniques, transformations, and applications in communication and audio processing.
+This repository contains various experiments and implementations in Digital Signal Processing (DSP) using MATLAB. The focus is on signal analysis, transformations, and applications in communication and audio processing.
 
 ## Table of Contents
 - [Introduction](#introduction)
