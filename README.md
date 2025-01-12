@@ -21,6 +21,15 @@ Digital Signal Processing (DSP) is a vital field in signal analysis, and this re
 - Transformations (e.g., Fourier Transform, Wavelet Transform)
 - Practical applications in communication systems and audio processing
 
+## Usage
+Clone the repository to your local machine.
+Navigate to the directory where the repository is located.
+Open MATLAB and run the .m script files.
+Modify the code as needed for your experiments and applications.
+
+## Contributing
+Contributions are welcome! Feel free to fork the repository, submit issues, or send pull requests to improve the code.
+
 ## Installation
 
 To work with the files in this repository, you need to have MATLAB installed. You can download MATLAB from the [official MathWorks website](https://www.mathworks.com/products/matlab.html).
@@ -30,10 +39,4 @@ Once you have MATLAB installed, clone this repository to your local machine:
 ```bash
 git clone https://github.com/yourusername/repository-name.git
 
-Usage
-Clone the repository to your local machine.
-Navigate to the directory where the repository is located.
-Open MATLAB and run the .m script files.
-Modify the code as needed for your experiments and applications.
-Contributing
-Contributions are welcome! Feel free to fork the repository, submit issues, or send pull requests to improve the code.
+
