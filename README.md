@@ -17,7 +17,6 @@ Digital Signal Processing (DSP) is a vital field in signal analysis, and this re
 ## Features
 
 - Signal analysis (e.g., frequency domain analysis)
-- Filtering techniques (e.g., FIR, IIR filters)
 - Transformations (e.g., Fourier Transform, Wavelet Transform)
 - Practical applications in communication systems and audio processing
 
